@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(147, 125, 108, 0.694);
+}
+
+table{
+    border: 2px solid black;
+    width: auto;
+    spacing:0;
+    padding: 4;
+}
+
+tr{
+    border: 0.5px solid black;
+}
+
+th{
+    border: 0.5px solid black;
+}
+
+td{
+    border: 0.5px solid black;
+}
